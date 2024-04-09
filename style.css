@@ -32,7 +32,7 @@ body {
 }
 
 .container .card:hover {
-  height: 550px;
+  height: 565px;
   cursor: pointer;
 }
 
@@ -123,6 +123,6 @@ body {
 }
 @media screen and (max-width: 600px) {
   body {
-    height: 700px;
+    height: 710px;
   }
 }
